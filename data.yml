@@ -1,0 +1,49 @@
+personal:
+  name: Liam Axelrod
+  phone: 072-406 20 29
+  email: liamaxelrod@gmail.com
+  linkedin: linkedin.com/in/liam-axelrod-5a445a323/
+  site: github.com/liamaxelrod
+education:
+  - name: University of Gothenburg
+    degree: Bachelor Software Engineering & Management
+    location: Gothenburg
+    date: 2021-2024
+  - name: Santa Monica Community College
+    degree: Undergraduate Higher Education
+    location: Santa Monica
+    date: 2014-2020
+experience:
+  - role: Employee
+    name: Ice at Santa Monica
+    location: 1324 Fifth St Santa Monica CA 90401 Phone +1-833-210-3880
+    date: 2017 & 2018
+    points:
+      - As Ice Skating Rink Attendant Liam was responsible for ensuring the safety of skaters, maintaining a clean and organized rink, and assisting with skate rentals and returns. They provided excellent customer service by answering questions, enforcing rink rules, and assisting skaters as needed to create a positive and safe environment.
+projects:
+  - name: Quick Scheduling
+    skills: Vue 36.0%, JavaScript 26.4%, PowerShell 14.5%, Shell 9.8%, Batchfile 7.7%, CSS 4.9%, Other 0.7%
+    date: 2022
+    points:
+      - The name of the website is "Quick Scheduling". The design of the webpage strives to be intuitive and user friendly. On the other hand, it should also be able to show the intricacies of more complex schedules. The timeslots will be elected by the owner of the schedule planner and the users will then fill in the template.
+  - name: jclapel banking system
+    skills: Java 99.9%, CSS 0.1%
+    date: 2022
+    points:
+      - Create a banking website with the capabilities of story, depositing, and withdrawing money with the interactive GUI  
+  - name: Autonomous Car Driving (with safety features)
+    skills: Java 80.8%, C++ 19.0%, GDScript 0.2%
+    date: 2022
+    points:     
+      - The penultimate goal for us is to have safety features that aid a driver of a motor vehicle, whether it be in motion or otherwise. This in turn provides a certain peace of mind and an extra sense of safety and comfort whilst on the road. Now, this is just the beginning in a series of advancements towards an ultimate goal of truly self-driving and self-aware vehicles.
+skills:
+  - category: Language
+    skills: English (native), Swedish (Intermediate)
+  - category: Programming Languages
+    skills: Java, JavaScript, SQL, noSQL, C, C++, CSS, HTML, Typst, LaTeX
+  - category: Frameworks
+    skills: Windows, Git, Docker, Visual Studio Code, Linux, Embedded Systems, Arduino, Autocad's TinkerCad, PowerShell, AJAX, Node, MongoDB, Bootstrap, Vue, MQTT
+  - category: Developer Tools
+    skills: OOP, Project Management, Scrum, Agile, UI, UX, Requirements Engineering, User Experience, Software Development Lifecycles, Software Architectural, DevOps, CI/CD, Software Process Improvement, Kanban, Postman
+  - category: Diagrams
+    skills: Context Diagrams, Strategic Dependencies Diagrams, Strategic Rationale Diagrams, ER & EER Diagrams, Functional Decomposition Diagram, Sequence Diagrams, Component Diagram, Deployment Diagram, SPEM diagram, Flow Graph, Unified Modeling Language
